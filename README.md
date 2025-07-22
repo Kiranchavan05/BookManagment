@@ -3,7 +3,7 @@
 This project is a full-stack Book Manager application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## 🚀 Live Demo
-- [Live App on Vercel](https://book-manager-beryl-one.vercel.app/)
+- [Live App on Vercel](https://book-managment-beta.vercel.app/)
 
 ---
 
